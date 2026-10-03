@@ -18,3 +18,14 @@ _pdf_render/
 results/figures/*.png
 docs/*.pdf
 !docs/lehalle_one_page_note.pdf
+# Repository housekeeping
+Thumbs.db
+desktop.ini
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.swp
+*.swo
+*~
